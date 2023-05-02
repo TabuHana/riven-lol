@@ -6,7 +6,7 @@ const Home = () => {
     {/* Buttons */}
     <nav>
       <button>Patch</button>
-      <button>Contribute</button>
+      <button>About</button>
     </nav>
 
     {/* General Tips */}
