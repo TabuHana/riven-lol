@@ -4,7 +4,7 @@ import GeneralTips from '../components/GeneralTips';
 const Home = () => {
 	return (
 		<>
-			{/* Buttons */}
+			{/* Modale Buttons */}
 			<nav>
 				<button>Patch</button>
 				<button>About</button>
